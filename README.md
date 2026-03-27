@@ -21,9 +21,6 @@ Building **The Vertical Limit**, a multidisciplinary technical house designed fo
 
 ### 🚀 Current Projects
 * **[The Vertical Limit®](https://theverticallimit.com):** Performance-driven technical luxury.
-* **Razegram:** High-security social networking protocol.
-* **Omninet:** Tactical node protocol for resilient digital signatures.
-
 ---
 
 ### 📊 Professional Metrics
