@@ -34,6 +34,6 @@ Building **The Vertical Limit**, a multidisciplinary technical house designed fo
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/angelsentis) | [Instagram](https://www.instagram.com/angelsentis) | [Crunchbase](https://www.crunchbase.com/person/angel-sentis)
+[LinkedIn](https://www.linkedin.com/in/angelsentis) | [Instagram](https://www.instagram.com/angelsentis) | [Crunchbase](https://www.crunchbase.com/person/angel-sentis-plaza)
 
 *"We are not just building software; we are engineering a legacy. Stay Elite."*
