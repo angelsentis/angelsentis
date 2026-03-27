@@ -27,7 +27,7 @@ Building **The Vertical Limit**, a multidisciplinary technical house designed fo
 ---
 
 ### 📊 Professional Metrics
-* **Crunchbase Rank (Person):** Top 12k Globally.
+* **Crunchbase Rank (Person):** Top 11k Globally.
 * **Location:** Andorra (Europe).
 * **Vision:** Engineering the future of vertical performance.
 
